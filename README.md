@@ -4,6 +4,7 @@ This repository contains the code used in the tutorials explaining how to develo
 
 The tutorials can be viewed here:
 Tutorial 6: Web-scraping with Azure Function https://www.linkedin.com/posts/jannickraunow_azure-functions-is-a-highly-flexible-facility-activity-7176125393706369025-XXzF?utm_source=share&utm_medium=member_desktop
+
 Tutorial 7: Running Azure Function Inside a Docker Container (will be posted soon)
 
 What you will need:
